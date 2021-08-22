@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConsoleHelloWorld5": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
